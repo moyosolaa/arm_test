@@ -1,16 +1,23 @@
 # arm_test
 
-A new Flutter project.
+Technical questions
 
-## Getting Started
+Please answer the following questions in a markdown file called README.md file on the
+GitHub repo.
+1. How long did you spend on the coding test?: 
 
-This project is a starting point for a Flutter application.
+    24hours
 
-A few resources to get you started if this is your first Flutter project:
+2. What would you add to your solution if you had more time? 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    Push notifications, better colors and styling, animations, sounds, image uploads, ability to send attachhments, collect more user data, user settiings and personalization etc.
+3. How would you track down a performance issue in production? Have you ever had to do
+this?
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    Use the default flutter devtools feature to track performance issues relating to network, widgets, performance, storage etc
+    
+    Implement Firebase crashlytics as well.
+
+    Yes I have used te above tools.
+
+4. What improvement would you suggest to the Firebase team if you had the chance? None

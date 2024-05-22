@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070669915777",
+    "project_id": "arm-test-task",
+    "storage_bucket": "arm-test-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070669915777:android:a7b0f5b3b08a089faa4f80",
+        "android_client_info": {
+          "package_name": "com.example.arm_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVVxo5xoSf7RyJ6uSs9DCQDDJn94zL1ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
